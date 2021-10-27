@@ -3,8 +3,9 @@
 Este es un archivo que se encuentra como base para hacer el ejercicio inicial de GIT por Equipos.
 
 ## Equipo
-**Número de Equipo**  XXX
+4
 
 ### INTEGRANTES
-   NOMBRE DEL PRIMER INTEGRANTE
-   
+Axel Rosillo Enciso
+Pedro Donaldo Sanchez Galvan 
+Antonio Josue Rodriguez Barrera
