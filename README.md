@@ -8,4 +8,4 @@ Este es un archivo que se encuentra como base para hacer el ejercicio inicial de
 ### INTEGRANTES
 Axel Rosillo Enciso
 Pedro Donaldo Sanchez Galvan 
-Antonio Josue Rodriguez Barrera
+Antonio Josué Rodríguez Barrera
