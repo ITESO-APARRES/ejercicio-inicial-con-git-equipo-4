@@ -7,5 +7,5 @@ Este es un archivo que se encuentra como base para hacer el ejercicio inicial de
 
 ### INTEGRANTES
 Axel Rosillo Enciso
-Pedro Donaldo Sanchez Galvan 
+Pedro Donaldo Sánchez Galván 
 Antonio Josue Rodriguez Barrera
